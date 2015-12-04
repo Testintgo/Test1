@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 123
 
 lkjkjlklkjkl
+=======
+123456
+>>>>>>> origin/master
