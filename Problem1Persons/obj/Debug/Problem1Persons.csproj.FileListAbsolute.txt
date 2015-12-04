@@ -1,0 +1,6 @@
+C:\Users\dasun\Desktop\softuni\OOP new\Homework1\Homework1\Problem1Persons\bin\Debug\Problem1Persons.exe.config
+C:\Users\dasun\Desktop\softuni\OOP new\Homework1\Homework1\Problem1Persons\obj\Debug\Problem1Persons.csprojResolveAssemblyReference.cache
+C:\Users\dasun\Desktop\softuni\OOP new\Homework1\Homework1\Problem1Persons\bin\Debug\Problem1Persons.exe
+C:\Users\dasun\Desktop\softuni\OOP new\Homework1\Homework1\Problem1Persons\bin\Debug\Problem1Persons.pdb
+C:\Users\dasun\Desktop\softuni\OOP new\Homework1\Homework1\Problem1Persons\obj\Debug\Problem1Persons.exe
+C:\Users\dasun\Desktop\softuni\OOP new\Homework1\Homework1\Problem1Persons\obj\Debug\Problem1Persons.pdb
