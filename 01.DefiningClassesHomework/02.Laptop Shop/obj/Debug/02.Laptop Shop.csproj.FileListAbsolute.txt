@@ -1,0 +1,6 @@
+D:\Downloads\SoftUni\SoftUniFundamentalOOP\Homeworks\01.DefiningClassesHomework\02.Laptop Shop\bin\Debug\02.Laptop Shop.exe.config
+D:\Downloads\SoftUni\SoftUniFundamentalOOP\Homeworks\01.DefiningClassesHomework\02.Laptop Shop\bin\Debug\02.Laptop Shop.exe
+D:\Downloads\SoftUni\SoftUniFundamentalOOP\Homeworks\01.DefiningClassesHomework\02.Laptop Shop\bin\Debug\02.Laptop Shop.pdb
+D:\Downloads\SoftUni\SoftUniFundamentalOOP\Homeworks\01.DefiningClassesHomework\02.Laptop Shop\obj\Debug\02.Laptop Shop.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni\SoftUniFundamentalOOP\Homeworks\01.DefiningClassesHomework\02.Laptop Shop\obj\Debug\02.Laptop Shop.exe
+D:\Downloads\SoftUni\SoftUniFundamentalOOP\Homeworks\01.DefiningClassesHomework\02.Laptop Shop\obj\Debug\02.Laptop Shop.pdb
